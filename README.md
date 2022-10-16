@@ -1,1 +1,1 @@
-Shell scripts \n
+Shell, scripts\n
